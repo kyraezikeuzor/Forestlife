@@ -77,13 +77,10 @@ h1 {
     font-family: var(--header-font);
 }
 
-main, header, footer {
-  max-width: 500px;
-  margin: auto;
-}
-
 /* MAIN */
 main {
+    max-width: 500px;
+    margin: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
