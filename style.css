@@ -77,6 +77,10 @@ h1 {
     font-family: var(--header-font);
 }
 
+main, header, footer {
+   width: 50%;
+}
+
 /* MAIN */
 main {
     display: flex;
