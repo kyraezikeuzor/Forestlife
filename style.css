@@ -29,6 +29,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Source+Serif+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Libre+Baskerville:wght@700&family=Source+Serif+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;900&display=swap');
 
 /* BODY */
 body,html {
@@ -50,7 +51,8 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Merriweather', serif;
+    font-weight: 900;
 }
 
 /*STYLING*/
