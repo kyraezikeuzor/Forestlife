@@ -70,6 +70,11 @@ mark {
 }
 
 /* HEADER */
+header {
+    max-width: 500px;
+    margin: auto;
+}
+
 h1 {
     font-family: Cooper;
     font-size: 48px;
